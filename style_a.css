@@ -2,14 +2,8 @@
 * CashLessExchange style
 */
 
-.topBanner {
+/*  --------------------------- Body -----------------------{
     background-size: contain !important;
-}
-.footerLogo {
-    background-size: contain !important;
-}
-.topBannerText {
-    display: none;
 }
 .loginDataBar {
     color: #292929 !important;
@@ -21,15 +15,40 @@
     width: 244px !important;
 }
 
-body {
-    color: #292929;
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    margin: 0;
-    background: black;
-    background-size: cover;
 }
-/* The Image is used for preview - it or other image must be purchased before going to production.
+
+.topBannerText {
+    display: none;
+
+}.topBanner {
+    background-size: contain !important;{
+    background-size: contain !important;
+}
+.loginDataBar {
+    color: #292929 !important;
+}
+.subMenu {
+    width: 244px !important;
+}
+.subMenuHover {
+    width: 244px !important;
+}
+
+
+body {
+    color: #292929;{
+    background-size: contain !important;
+}
+.loginDataBar {
+    color: #292929 !important;
+}
+.subMenu {
+    width: 244px !important;
+}
+.subMenuHover {
+    width: 244px !important;
+}
+ be purchased before going to production.
 # Address of image for purchasing: https://www.shutterstock.com/ru/image-illustration/blue-vivid-image-globe-globalization-concept-148723100?src=PlyBVFF2I3280IcN1MARxA-1-89
 */
 
